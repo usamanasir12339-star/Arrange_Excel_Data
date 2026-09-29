@@ -1,0 +1,38 @@
+Date,Order ID,Customer,Product,Category,Quantity,Sales,Cost
+2025-01-28,ORD-1001,Bright Co,Desk,Furniture,8,2000,1426
+2025-01-26,ORD-1002,Bright Co,Phone,Electronics,8,4000,3030
+2025-01-03,ORD-1003,Ali Traders,Laptop,Electronics,8,7200,4866
+2025-02-21,ORD-1004,Bright Co,Notebook Pack,Stationery,7,56,47
+2025-02-03,ORD-1005,Ali Traders,Notebook Pack,Stationery,1,8,6
+2025-02-20,ORD-1006,Ali Traders,Laptop,Electronics,4,3600,2952
+2025-03-27,ORD-1007,Bright Co,Desk,Furniture,6,1500,1065
+2025-03-16,ORD-1008,Ali Traders,Notebook Pack,Stationery,4,32,24
+2025-03-14,ORD-1009,Ali Traders,Laptop,Electronics,8,7200,5499
+2025-04-17,ORD-1010,City Mart,Office Chair,Furniture,6,720,568
+2025-04-04,ORD-1011,Delta Ltd,Laptop,Electronics,2,1800,1333
+2025-04-01,ORD-1012,Ali Traders,Laptop,Electronics,5,4500,3135
+2025-05-02,ORD-1013,,Phone,Electronics,4,2000,1664
+2025-05-19,ORD-1014,Bright Co,Desk,Furniture,7,1750,1234
+2025-05-11,ORD-1015,Ali Traders,Office Chair,Furniture,6,720,448
+2025-06-23,ORD-1016,Ali Traders,Desk,Furniture,2,500,317
+2025-06-16,ORD-1017,Bright Co,Laptop,Electronics,1,900,645
+2025-06-07,ORD-1018,Bright Co,Notebook Pack,Stationery,4,32,23
+2025-07-14,ORD-1019,Bright Co,Desk,Furniture,7,1750,1101
+2025-07-26,ORD-1020,City Mart,Laptop,Electronics,5,4500,3672
+not a date,ORD-1021,Ali Traders,Laptop,Electronics,4,3600,2329
+2025-08-09,ORD-1022,Ali Traders,Laptop,Electronics,3,2700,1764
+2025-08-13,ORD-1023,Ali Traders,Notebook Pack,Stationery,6,48,39
+2025-08-21,ORD-1024,Bright Co,Laptop,Electronics,2,1800,1174
+2025-09-15,ORD-1025,Bright Co,Laptop,Electronics,6,5400,3742
+2025-09-05,ORD-1026,Delta Ltd,Notebook Pack,Stationery,8,64,52
+2025-09-08,ORD-1027,Bright Co,Phone,Electronics,3,1500,1017
+2025-10-18,ORD-1028,Bright Co,Phone,Electronics,3,1500,1177
+2025-10-14,ORD-1029,Ali Traders,Desk,Furniture,8,2000,1502
+2025-10-09,ORD-1030,Bright Co,Laptop,Electronics,2,1800,1097
+2025-11-20,ORD-1031,Delta Ltd,Desk,Furniture,5,1250,882
+2025-11-03,ORD-1032,Bright Co,Office Chair,Furniture,3,360,300
+2025-11-28,ORD-1033,Ali Traders,Phone,Electronics,8,4000,2959
+2025-12-07,ORD-1034,Ali Traders,Office Chair,Furniture,4,480,398
+2025-12-08,ORD-1035,Ali Traders,Laptop,Electronics,5,4500,3163
+2025-12-17,ORD-1036,Bright Co,Laptop,Electronics,3,2700,1810
+2025-02-20,ORD-1006,Ali Traders,Laptop,Electronics,4,3600,2952
