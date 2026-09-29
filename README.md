@@ -1,3 +1,10 @@
+for use this tool website link is here 
+https://business-analytics-tool-hlxsanyaygepnqm3nfbaft.streamlit.app/#key-numbers
+
+
+
+
+
 # Business Analytics Tool
 
 A simple web app for business users. Upload a CSV or Excel file and get an automatic dashboard with key numbers, charts and a data quality report. No technical setup or settings needed.
